@@ -1,0 +1,10 @@
+   {
+     "ISTA Tools": {
+       "ISTA 4.39": "https://example.com/ista439",
+       "ISTA 4.49": "https://example.com/ista449"
+     },
+     "BMW Standard Tools": {
+       "INPA": "https://example.com/inpa",
+       "NCS Expert": "https://example.com/ncs"
+     }
+   }
